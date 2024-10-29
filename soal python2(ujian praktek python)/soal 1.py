@@ -1,0 +1,5 @@
+print('*'*35)
+print("\tPROGRAM PYTHON")
+print("\tOLEH : SANDI RUSMANA")
+print("\tKELAS : X PPLG 1")
+print('*'*35)
