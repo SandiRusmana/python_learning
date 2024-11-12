@@ -1,4 +1,5 @@
-for i in range(1,6):
-    print(" " * (5 - i)+ "*" * i)
-    for x in range(4, 0, -1):
-         print(" " * (5 - i)+ "*" * i)
+n = 5
+for x in range (1, n+1):
+    print(" " * (n-x) + "* " * x)
+for x in range (n-1, 0, -1):
+    print(" " * (n-x) + "* " * x)
